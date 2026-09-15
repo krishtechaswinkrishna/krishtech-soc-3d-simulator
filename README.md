@@ -103,12 +103,6 @@ The goal of **KrishTech-SOC-3D_Simulator** is to make cybersecurity education en
 
 ---
 
-## 📸 Screenshots
-
-> Add gameplay screenshots, office views, investigation panels, and incident response screens here.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas for new cyber incidents, gameplay mechanics, bug fixes, or performance improvements, feel free to fork the repository and submit a pull request.
